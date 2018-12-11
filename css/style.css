@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#sec-about{
+	background-color: #E6DFDF;
+	padding: 80px 0;
+}
+#sec-about h2{
+	color: #403E3E;
+	text-transform: uppercase; 
+	padding-bottom: 20px;
+}
+#sec-about h3{
+	padding-top: 10px;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+#sec-about p{
+	padding-top: 10px;
+	font-size: 12px;
+	color: #C7C2C2;
+}
+#sec-about .Cuadros{
+	background-color:#494949;
+	color: #FFFFFF;
+	padding:30px 0;
+}
+.icon-about{
+	font-size: 40px;
+	background-color: #FE8F01;
+	padding: 15px ;
+	border:5px solid #fff ;
+	border-radius: 100px;
+	
+   
+	
+	
+}
+#sec-counter{
+	background-color: #010101;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 40px 0;
+}
+#sec-counter p{
+	font-size: 14px;
+	color: #FE8F01;
+	
+}
+.icon-counter{
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+footer{
+	padding-top:10px;
+	font-size: 12px;
+	background-color:#2F2F2F ;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+
